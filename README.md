@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./Web%20demo.gif' title='GIF Demo' width='' alt='GIF Demo' />
+<img src='./Web_demo.gif' title='GIF Demo' width='' alt='GIF Demo' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created using Mac screen recording, then converted to a GIF. 
