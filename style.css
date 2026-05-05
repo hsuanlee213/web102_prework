@@ -19,6 +19,28 @@ body {
     margin-top: -10px;
 }
 
+.nav-links {
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #1f2d3d;
+    font-weight: 700;
+    background-color: white;
+    padding: 10px 16px;
+    border-radius: 7px;
+}
+
+.nav-links a:hover {
+    box-shadow: 0 0 15px white;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
 .stats-container {
     display: flex;
     align-items: center;
